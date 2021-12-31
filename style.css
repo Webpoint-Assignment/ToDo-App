@@ -1,0 +1,48 @@
+.container{
+    position:relative;
+    border:solid black;
+    height:50vh;
+    width:50vw;
+    left:300px;
+    top:200px;
+
+}
+.text-submit{
+    position: absolute;
+    top:35px;
+    left:50px;
+}
+.text{
+    width: 350px;
+    height: 30px;
+}
+.button{
+    height: 35px;
+
+
+}
+.list{
+    position:absolute;
+    /* background-color: blue; */
+    border: 0.5px solid black;
+    height:200px;
+    width:450px;
+    top:100px;
+    left:50px;
+    
+}
+.elist{
+    background-color: aliceblue;
+    margin: 10px;
+    left:20px;
+    
+}
+.delBtn{
+    position: absolute;
+    right: 10px;
+    
+}
+.score{
+    position: absolute;
+    bottom: 2px;
+}
